@@ -6,7 +6,7 @@ This repository contains the solutions to computational physics problems from my
 
 ## Repository Structure 📂
 
-- `questions.pdf`: Contains all the problem statements.
+- `Questions.pdf`: Contains all the problem statements.
 - `solutions/`: Folder containing the solutions to the problems in `.cpp` files.
 
 ---
